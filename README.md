@@ -11,3 +11,7 @@ duck goes bye bye
 
 ### windows+cntrl+T
 duck goes into focus mode for 25 minutes
+
+### click the duck
+it will switch out of flying mode, click it again to make it fly! also makes a quacking noise
+
