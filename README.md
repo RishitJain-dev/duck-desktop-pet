@@ -1,6 +1,8 @@
 # duck-desktop-pet
 a duck that follows your mouse cursor and assists you in your daily tasks
 
+----
+
 ### windows+cntrl+J
 duck goes crazy and changes colours
 
