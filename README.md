@@ -2,6 +2,7 @@
 a duck that follows your mouse cursor and assists you in your daily tasks
 
 ---
+<img width="666" height="398" alt="Screenshot 2026-09-29 203210" src="https://github.com/user-attachments/assets/6e0ba704-ce7b-4a5e-95f5-36dcb8415262" />
 
 
 https://thescarletkingyt.itch.io/duck-desktop-pet
@@ -24,6 +25,9 @@ it will switch out of flying mode, click it again to make it fly! also makes a q
 ## How it works
 
 I used Godot Game Engine to make this project, coded in GDscript and assets from Itch.io!
+
+<img width="201" height="181" alt="Screenshot 2026-09-29 203156" src="https://github.com/user-attachments/assets/0eb77085-7f53-420f-9d57-7fd82732c69f" />
+
 
 ## Credits
 
