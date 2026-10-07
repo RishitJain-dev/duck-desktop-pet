@@ -1,6 +1,6 @@
 # duck-desktop-pet
 a duck that follows your mouse cursor and assists you in your daily tasks
-
+SHIPPED MESSAGE: https://hackclub.slack.com/archives/C0C51NCK1DG/p1790711181104059
 ---
 <img width="666" height="398" alt="Screenshot 2026-09-29 203210" src="https://github.com/user-attachments/assets/6e0ba704-ce7b-4a5e-95f5-36dcb8415262" />
 
